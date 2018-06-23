@@ -45,31 +45,29 @@ We have modified Traffic_Waypoint message formate we have publish both state of 
 #### Traffic Light Detection algorithm 
 We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and this is open source framework build on top of Tensorflow to construct ,train , depoly object detection model . This is pre-trained model of COCO dataset and good for fast prototyping . They even have given different [trained models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) and its time required and accuracy for each model . We have selected `ssd_mobilenet_v2_coco` which takes time  31 second .
 
-Our Implementation and testing of [Detection of Traffic] (https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb) 
+Our Implementation and testing of [ Detection of Traffic ](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb) 
 
-<ul>
-<li> <b>Red Traffic light Detection </b>  </li> 
+
+ ###### Red Traffic light Detection   
     
-   ![red_traffic_Light](red_traffic_Light.png)
+   ![RED LIGHT ](red_traffic_Light.png)
    
-   ![red_traffic_Light](red_traffic_Light2.png)
+   ![RED LIGHT](red_traffic_Light2.png)
    
-   
+ 
   
-<li>
-    <b>Green Traffic Light Detection </b> 
-</li>
-    
-     ![green_traffic_Light](green_traffic_Light.png)
-    
-
-<li>
-    <b>Yellow Light Traffic Detection</b> 
-</li>
-     ![Yellow_traffic_ight](Yellow_traffic_Light.png)
+ ###### Green Traffic Light Detection
+ 
+  ![GREEN LIGHT ](green_traffic_Light.png)
 
     
-</ul>
+
+ ###### Yellow Light Traffic Detection
+ ![Yellow Light](Yellow_traffic_Light.png)
+
+     
+
+
     
 
 We process traffic light signal only when the distance betweem car current position and Traffic light postion is less than 60 which reduce the calculation time . 
