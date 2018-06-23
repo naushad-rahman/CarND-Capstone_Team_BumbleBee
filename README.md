@@ -4,7 +4,7 @@
 
 ## Final Project - System Integration
 
-## Team NinjaCar
+## Team BumbleBee
 
 [![Visual Car On the Track Video](youtube.png)](https://www.youtube.com/watch?v=nnm6esR3pUk)
 
