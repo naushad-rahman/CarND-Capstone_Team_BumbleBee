@@ -57,14 +57,15 @@ Our Implementation and testing of [Detection of Traffic] (https://github.com/sat
    
   
 <li>
-    <b>Green Traffic Light Detection </b> </li>
+    <b>Green Traffic Light Detection </b> 
+</li>
     
      ![green_traffic_Light](green_traffic_Light.png)
     
 
-    <li>
+<li>
     <b>Yellow Light Traffic Detection</b> 
-    </li>
+</li>
      ![Yellow_traffic_ight](Yellow_traffic_Light.png)
 
     
