@@ -48,7 +48,9 @@ We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/mo
 <ul>
 <li> <b>Red Traffic light Detection </b>
     
-    [![Red Traffic Light detection](red_traffic_ight.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
+    [![Red Traffic Light detection](red_traffic_Light.png)](https://www.youtube.com/watch?v=nnm6esR3pUk)
+    
+    [![Red Traffic Light detection](red_traffic_Light.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
     
     [![Red Traffic Light detection](red_traffic_ight2.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
    
