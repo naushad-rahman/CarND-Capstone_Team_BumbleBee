@@ -6,7 +6,7 @@
 
 ## Team NinjaCar
 
-[![Visual Car On the Track Video](youtube.png)](https://www.youtube.com/watch?v=nnm6esR3pUk&t=527s)
+[![Visual Car On the Track Video](youtube.png)](https://www.youtube.com/watch?v=nnm6esR3pUk)
 
 ### Team Member
 1. <b>Naushad Rahman, Email (naushad.rahman@hotmail.com) </b> 
@@ -47,6 +47,7 @@ We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/mo
 
 <ul>
 <li> <b>Red Traffic light Detection </b>
+    [![Visual Car On the Track Video](youtube.png)](https://www.youtube.com/watch?v=nnm6esR3pUk&t=527s)
     [![Red Traffic Light detection](red_traffic_ight.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
      [![Red Traffic Light detection](red_traffic_ight2.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
    
