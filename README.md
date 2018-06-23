@@ -48,24 +48,25 @@ We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/mo
 Our Implementation and testing of [Detection of Traffic] (https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb) 
 
 <ul>
-<li> <b>Red Traffic light Detection </b> 
+<li> <b>Red Traffic light Detection </b>  </li> 
     
    ![red_traffic_Light](red_traffic_Light.png)
    
    ![red_traffic_Light](red_traffic_Light2.png)
    
-    </li> 
+   
   
 <li>
-    <b>Green Traffic Light Detection </b>
+    <b>Green Traffic Light Detection </b> </li>
     
      ![green_traffic_Light](green_traffic_Light.png)
     
-</li>
+
     <li>
-    <b>Yellow Light Traffic Detection</b>
+    <b>Yellow Light Traffic Detection</b> 
+    </li>
      ![Yellow_traffic_ight](Yellow_traffic_Light.png)
-</li>
+
     
 </ul>
     
