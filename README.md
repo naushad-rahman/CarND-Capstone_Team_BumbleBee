@@ -48,8 +48,7 @@ We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/mo
 <ul>
 <li> <b>Red Traffic light Detection </b>  </li> 
     
-    [![Red Traffic Light detection](red_traffic_Light.png)](https://www.youtube.com/watch?v=nnm6esR3pUk)
-    
+   ![wayupdater](red_traffic_Light.png)
   
 <li>
     <b>Green Traffic Light Detection </b>
