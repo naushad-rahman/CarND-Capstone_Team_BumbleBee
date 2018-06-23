@@ -46,7 +46,7 @@ We have modified Traffic_Waypoint message formate we have publish both state of 
 We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and this is open source framework build on top of Tensorflow to construct ,train , depoly object detection model . This is pre-trained model of COCO dataset and good for fast prototyping . They even have given different [trained models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) and its time required and accuracy for each model . We have selected `ssd_mobilenet_v2_coco` which takes time  31 second .
 
 <ul>
-<li> <b>Red Traffic light Detection </b>
+<li> <b>Red Traffic light Detection </b>  </li> 
     
     [![Red Traffic Light detection](red_traffic_Light.png)](https://www.youtube.com/watch?v=nnm6esR3pUk)
     
@@ -54,7 +54,7 @@ We are using [ TensorFlow Object Detection API](https://github.com/tensorflow/mo
     
     [![Red Traffic Light detection](red_traffic_ight2.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
    
-   </li> 
+  
 <li>
     <b>Green Traffic Light Detection </b>
      [![Green Traffic Light detection](green_traffic_ight.png)](https://github.com/satoshikumano/traffic-light-detection-fh/blob/master/TrafficLightDetection-Inference.ipynb)
