@@ -12,7 +12,7 @@
 1. <b>Naushad Rahman, Email (naushad.rahman@hotmail.com) </b> 
 2. <b>Satoshi Kumano, Email (satoshi.kumano@gmail.com) </b>
 3. <b>Nghi Tran, Email (nathantran99@gmail.com) </b>
-4.<b>Wang Xi, Email (kchbpy@hotmail.com) </b>
+4. <b>Wang Xi, Email (kchbpy@hotmail.com) </b>
 5. <b>Chao Liu, Email (billliu_666@163.com) </b>
 
 ## Carnd-Capstone Project 
